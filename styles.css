@@ -1,0 +1,16 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
+table, th, td {
+  border:1px solid black;
+}
+table {
+  width: 100%;
+  height: 800px;
+}
