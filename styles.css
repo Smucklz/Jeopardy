@@ -16,6 +16,7 @@ p {
 table, th, td {
   border:1px solid black;
   text-align: center;
+  
 }
 table {
   width: 100%;
@@ -27,7 +28,4 @@ h1 {
 }
 p {
   color: red;
-}
-table, th, td {
-  border:1px solid black;
 }
